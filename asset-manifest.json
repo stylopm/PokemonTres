@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokemonTres/static/css/main.a102879e.css",
+    "main.js": "/PokemonTres/static/js/main.ab6d8e46.js",
+    "static/js/787.ab378faf.chunk.js": "/PokemonTres/static/js/787.ab378faf.chunk.js",
+    "index.html": "/PokemonTres/index.html",
+    "main.a102879e.css.map": "/PokemonTres/static/css/main.a102879e.css.map",
+    "main.ab6d8e46.js.map": "/PokemonTres/static/js/main.ab6d8e46.js.map",
+    "787.ab378faf.chunk.js.map": "/PokemonTres/static/js/787.ab378faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.ab6d8e46.js"
+  ]
+}
